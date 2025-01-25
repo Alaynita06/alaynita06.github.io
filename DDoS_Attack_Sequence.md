@@ -51,5 +51,8 @@ sequenceDiagram
 
 
 
+git remote add origin https://github.com/Alaynita06/DDoS_Attack_Sequence.md.git
+git branch -M main
+git push -u origin main
 
 
